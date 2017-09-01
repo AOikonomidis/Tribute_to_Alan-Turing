@@ -1,3 +1,3 @@
-# Tribute_to_Alan-Turing
+# Tribute to Alan Turing
 
 https://codepen.io/and_oikonomidis/full/JEwPBW/
